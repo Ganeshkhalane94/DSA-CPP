@@ -2,4 +2,5 @@
 *.out
 *.o
 *.obj
+*demo
 .vscode/
