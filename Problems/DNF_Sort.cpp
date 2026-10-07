@@ -1,6 +1,6 @@
 //Problem No.75: Sort an Array of 0s,1s,2s.
 //Approach: DNF Sort
-//Time Complexity: O(log n) 
+//Time Complexity: O(n) 
 #include<iostream>
 #include<vector>
 using namespace std;
