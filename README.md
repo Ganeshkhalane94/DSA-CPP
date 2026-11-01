@@ -1,4 +1,9 @@
 # Data Structures and Algorithms in C++
+[![GitHub](https://img.shields.io/badge/GitHub-DSA--CPP-black?style=for-the-badge&logo=github)](https://github.com/Ganeshkhalane94/DSA-CPP)
+
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)
+![DSA](https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)
 
 This repository contains my implementations and solutions for Data Structures and Algorithms (DSA) using C++. It serves as a record of my learning journey and continuous practice in improving problem-solving skills, coding efficiency, and interview preparation.
 
