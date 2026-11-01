@@ -66,9 +66,9 @@ This repository contains my implementations and solutions for Data Structures an
 
 ## Connect With Me
 
-GitHub: https://github.com/Ganeshkhalane94
-LinkedIn: https://www.linkedin.com/in/ganesh-khalane-348259287
-Instagram: https://www.instagram.com/ganeshkhalane44
+- GitHub: https://github.com/Ganeshkhalane94
+- LinkedIn: https://www.linkedin.com/in/ganesh-khalane-348259287
+- Instagram: https://www.instagram.com/ganeshkhalane44
 ---
 
 ⭐ If you find this repository useful, feel free to star it and follow my progress as I continue learning Data Structures and Algorithms.
